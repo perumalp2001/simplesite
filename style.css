@@ -1,0 +1,16 @@
+body{
+    background-image: url("13229.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    font-family: "Press Start 2P";
+    color: green;
+}
+
+p{
+    font-family: "Press Start 2P"; 
+}
